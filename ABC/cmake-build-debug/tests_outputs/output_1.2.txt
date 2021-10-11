@@ -1,0 +1,9 @@
+Numeric values of container elements:
+0.666667
+3.921734
+-13.593857
+
+Sorted container:
+(polar, 2.200000, 0)
+(fraction, 6 / 9)
+(complex, 1.300000 + i * 3.700000)

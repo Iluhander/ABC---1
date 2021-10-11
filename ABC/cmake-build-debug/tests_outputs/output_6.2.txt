@@ -1,0 +1,21 @@
+Numeric values of container elements:
+0.252613
+-0.467236
+1.346801
+0.616726
+0.081074
+0.277501
+-1.803752
+0.962653
+14.736511
+
+Sorted container:
+(fraction, -24228 / 13432)
+(fraction, -13783 / 29499)
+(fraction, 2323 / 28653)
+(fraction, 4930 / 19516)
+(fraction, 5633 / 20299)
+(fraction, 12057 / 19550)
+(fraction, 13120 / 13629)
+(fraction, 8400 / 6237)
+(fraction, 16387 / 1112)

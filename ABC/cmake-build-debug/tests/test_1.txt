@@ -1,0 +1,4 @@
+3
+fraction 6 9 
+complex 1.3 3.7 
+polar 2.2 8
