@@ -108,7 +108,10 @@ void Container::RemoveLessThanAverage() {
         sum += elements[i] -> CastToDouble();
     }
 
-    double averageValue = sum / size;
+    double averageValue = 0;
+    if (size > 0) {
+        averageValue = sum / size;
+    }
 
     int sizeDelta = 0;
     for (int i = 0, j = 0; i < size; ++i) {
