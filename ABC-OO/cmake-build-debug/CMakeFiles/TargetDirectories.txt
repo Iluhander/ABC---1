@@ -1,0 +1,3 @@
+C:/Users/IlyaLayk/CLionProjects/ABC-OO/cmake-build-debug/CMakeFiles/ABC_OO.dir
+C:/Users/IlyaLayk/CLionProjects/ABC-OO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/IlyaLayk/CLionProjects/ABC-OO/cmake-build-debug/CMakeFiles/rebuild_cache.dir

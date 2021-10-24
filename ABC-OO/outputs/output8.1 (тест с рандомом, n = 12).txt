@@ -1,0 +1,13 @@
+Filled container:
+Polar: (1174, 273); Function value = -1236.2
+Polar: (307, 958); Function value = -312.374
+Complex: (93, 1224); Function value = 1227.53
+Complex: (253, 1221); Function value = 1246.94
+Complex: (550, 1217); Function value = 1335.51
+Polar: (491, 149); Function value = -2194.5
+Polar: (776, 954); Function value = 1543.9
+Complex: (431, 116); Function value = 446.337
+Complex: (782, 983); Function value = 1256.11
+Complex: (41, 639); Function value = 640.314
+Complex: (776, 939); Function value = 1218.15
+Fraction: (730/1303); Function value = 0.560246

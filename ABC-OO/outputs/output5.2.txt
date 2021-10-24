@@ -1,0 +1,7 @@
+Container without elements that are less than average:
+Polar: (0.13466, -4.99726e+06); Function value = 0.203255
+Polar: (1.29595, -4.97997e+06); Function value = 1.33419
+Polar: (0.19395, -4.99932e+06); Function value = 0.238679
+Polar: (0.13466, -4.99726e+06); Function value = 0.203255
+Polar: (1.29595, -4.97997e+06); Function value = 1.33419
+Polar: (0.19395, -4.99932e+06); Function value = 0.238679

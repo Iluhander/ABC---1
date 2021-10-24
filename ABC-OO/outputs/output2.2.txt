@@ -1,0 +1,2 @@
+Container without elements that are less than average:
+Complex: (6.9, 2.28); Function value = 7.26694

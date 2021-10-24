@@ -1,0 +1,7 @@
+Container without elements that are less than average:
+Complex: (-4995, -4981); Function value = 7054.1
+Complex: (-4981, -4993); Function value = 7052.69
+Complex: (-4996, -4990); Function value = 7061.17
+Complex: (-4988, -4992); Function value = 7056.93
+Complex: (-4926, -4972); Function value = 6999.02
+Complex: (-9922, -697); Function value = 9946.45

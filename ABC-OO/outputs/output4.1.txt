@@ -1,0 +1,10 @@
+Filled container:
+Fraction: (4930/19516); Function value = 0.252613
+Fraction: (-13783/29499); Function value = -0.467236
+Fraction: (8400/6237); Function value = 1.3468
+Fraction: (12057/19550); Function value = 0.616726
+Fraction: (2323/28653); Function value = 0.0810735
+Fraction: (5633/20299); Function value = 0.277501
+Fraction: (-24228/13432); Function value = -1.80375
+Fraction: (13120/13629); Function value = 0.962653
+Fraction: (16387/1112); Function value = 14.7365

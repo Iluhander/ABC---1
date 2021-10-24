@@ -1,0 +1,2 @@
+Container without elements that are less than average:
+Fraction: (16387/1112); Function value = 14.7365
